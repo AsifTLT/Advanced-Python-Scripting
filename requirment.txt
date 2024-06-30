@@ -1,0 +1,2 @@
+Install Go Extension in vs code
+Download Go Programming Language and Installed, its automatically add your interpreter
